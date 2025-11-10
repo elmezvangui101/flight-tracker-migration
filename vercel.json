@@ -3,8 +3,7 @@
     {
       "source": "/(.*)",
       "destination": "https://flightcents.com/$1",
-      "permanent": true,
-      "statusCode": 301
+      "permanent": true
     }
   ],
   "headers": [
