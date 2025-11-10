@@ -1,5 +1,5 @@
 // Countdown Timer Logic
-let timeLeft = 59;
+let timeLeft = 60;
 let timerInterval;
 let isPaused = false;
 
